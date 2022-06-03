@@ -10,4 +10,4 @@
 <a>O usuário conseguir realizar o cadastro no site<a>
   
 ## Falta incrementar
-   - [ ]a função de ver as senha com o javascript
+   -[ ]a função de ver as senha com o javascript
